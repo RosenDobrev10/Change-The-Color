@@ -2,6 +2,6 @@
 
 Click the button and change the background color.
 
-Try for yourself - https://backgroundcolor.rosendobrev10.repl.co/
+Try for yourself - https://rosendobrev10.github.io/Change-The-Color/
 
-![image](https://user-images.githubusercontent.com/104829819/191993557-d6cd5770-0cab-4027-bb9d-b45373d99e56.png)
+![Color Changer](https://user-images.githubusercontent.com/104829819/200541460-12c947af-f25e-42df-aa19-2cbfdba7803d.png)
